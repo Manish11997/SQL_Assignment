@@ -1,2 +1,2 @@
 # SQL_Assignment
-SQL SELECT Queries on the Northwind Database
+Data Analysis on MySQL Workbench platform using Northwind database which included operations like 'SELECT, WHERE, GROUP BY, HAVING, JOINS, COUNT, AVERAGE, SUM, DISTINCT, SUBQUERIES' etc.
